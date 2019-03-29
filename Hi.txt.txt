@@ -1,2 +1,1 @@
 print ("HI")
-print ("How do you do")
