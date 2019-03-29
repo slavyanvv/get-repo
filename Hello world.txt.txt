@@ -3,3 +3,7 @@ print("Hello ewerybody")
 print("Hello mr.pBody")
 print("Hello my dear")
 print("Hello my dear zaebal")
+print("Hello world;")
+print("Hello ewerybody;")
+print("Hello mr.pBody;")
+
